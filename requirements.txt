@@ -1,0 +1,15 @@
+torch
+torchvision
+tensorflow
+scikit-learn
+scikit-image
+opencv-python
+openvino==2023.1.0
+openvino-dev
+openvino-mo
+onnx
+onnxruntime
+keras
+ultralytics
+roboflow
+numpy>=1.16.6
