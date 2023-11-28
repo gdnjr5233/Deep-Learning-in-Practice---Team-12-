@@ -30,7 +30,7 @@ In progress
 
 [Требования к данным для детекции](./docs/requirements.md)
 
-[Инструкция для разметчиков](./docs/instructions.md)
+[Инструкция для разметчиков](./docs/labeling_instruction.md)
 
 [Расчет стоимости](./docs/cost_image.png)
 
