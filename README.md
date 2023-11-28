@@ -35,7 +35,7 @@ In progress
 [Расчет стоимости](link)
 
 ## Общий пайплайн
-[Пайплайн](./samples/signs_pipeline.jpg)
+[Пайплайн](./samples/signs_pipeline.png)
 
 ## Примеры
 ### Детекция нескольких знаков
