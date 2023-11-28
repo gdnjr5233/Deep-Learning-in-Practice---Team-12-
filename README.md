@@ -32,7 +32,7 @@ In progress
 
 [Инструкция для разметчиков](link)
 
-[Расчет стоимости](link)
+[Расчет стоимости](./docs/cost_image.png)
 
 ## Общий пайплайн
 ![Пайплайн](./docs/signs_pipeline.png)
