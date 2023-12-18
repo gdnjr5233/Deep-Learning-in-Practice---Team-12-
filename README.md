@@ -52,7 +52,7 @@
 
 ## Примеры
 ### Детекция нескольких знаков
-link
+[Общие дорожные знаки]([./docs/cost_image.png](https://oonix.ru/wp-content/uploads/2019/03/Dorozhnye-znaki-730x485.jpg))
 
 ### Кривая Precision-Recall:
 ![PR-Curve](./samples/PR_curve.png)
