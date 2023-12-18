@@ -64,4 +64,5 @@ YOLOv3:
 ![YOLOv3](https://github.com/gdnjr5233/Deep-Learning-in-Practice_Team-12/blob/main/code_&_results/Comparison_of_model_results_YOLOv3.png?raw=true)
 
 YOLOv4:  
-![YOLOv4](https://github.com/gdnjr5233/Deep-Learning-in-Practice_Team-12/blob/main/code_&_results/Comparison_of_model_results_YOLOv4.png?raw=true)
+![YOLOv4](https://github.com/gdnjr5233/Deep-Learning-in-Practice_Team-12/blob/main/code_&_results/Comparison_of_model_results_YOLOv4.png?raw=true)  
+Видно, что модель YOLOv4 имеет меньшее время выполнения, чем модель YOLOv3, и генерирует больше информации о разметке.
